@@ -1,9 +1,4 @@
-# Web scrapers
-
-Works for following websites
-1. archidply.com
-2. simla.co.in
-3. greenply.com
+# Assorted Python based Web scrapers
 
 Usage:
 
